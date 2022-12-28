@@ -1,4 +1,4 @@
-<?php echo "hello Suyog welcome";?>
-
-
-
+<?php
+echo "Hello Suyog Welcome.";
+echo "Hello Suyog Welcome.";
+?>
